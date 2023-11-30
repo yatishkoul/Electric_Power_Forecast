@@ -26,6 +26,6 @@ Proposed Methodology and Techniques to be used:
 1. Preprocess Data: Handle missing values and standardize measurements.
 2. Feature Engineering: Extract time-related attributes and determine feature significance.
 3. Time-Series Forecasting: Use past records to predict future electricity usage.
-4. Modeling: Employ algorithms like ARIMA, Random Forest, and LSTM for predictions.
+4. Modeling: Employ algorithms like Random Forest, and LSTM for predictions.
 5. Evaluation: Compare model forecasts with actual data and visualize the results.
 6. Advanced Analysis: Detect anomalies and cluster similar consumption patterns.
