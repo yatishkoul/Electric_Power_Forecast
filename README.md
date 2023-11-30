@@ -1,10 +1,7 @@
 # Electric_Power_Forecast
 MS CMPE 255 Final Project
 Project Abstract
-Team Number: 9
-Team Members:
-Yatish Koul (016695328)
-Rohit Dadlani (017464928)
+
 Project Title: Use historical data to predict future electricity usage.
 Dataset:
 The Dataset has been taken from UC, Irvine. The link to access the dataset is given below.
